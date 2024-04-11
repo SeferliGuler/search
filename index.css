@@ -7,6 +7,11 @@
    
   }
 
+  .clear-icon-li:hover{
+    background-color: #833AE0;
+    color: white;
+  }
+
   .to-do{
     font-size: 25px;
     font-weight: 700;
@@ -68,10 +73,18 @@
 
 
   .img{
-    width: 25px;
-    height: 15px;
-    margin-left: 275px;
+   
+    margin-left: 272px;
     margin-bottom: 10px;
+  }
+
+  .sort{
+   font-size: 20px;
+    color: #9e9c9c;
+  }
+
+  .sort:hover{
+   color: black;
   }
   
 
@@ -141,11 +154,11 @@
 
   .list-group-x{
     list-style: none;
-    margin-top: 4px;
+    margin-top: 12px;
     border-radius: 3px;
     position: relative;
     width: 250px;
-    margin-left: -27px;
+    margin-left: 13px;
   }
 
 
